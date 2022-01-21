@@ -257,6 +257,12 @@ nav {
     height: auto;
     object-fit: cover;
 }
+@media (max-width: 998px) {
+    .logo-img {
+        position: relative;
+        right: 5%;
+    }
+}
 
 
 /* Button */
